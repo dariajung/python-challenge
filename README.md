@@ -1,4 +1,4 @@
 python-challenge
 ================
 
-My solutions to the python challenge
+My solutions to the [Python Challenge](http://www.pythonchallenge.com/)
