@@ -1222,6 +1222,7 @@ $#_}*!(+([_&%{^&[([%]}*^{{([@+@]@*&@_!]_+([(#&!]]#$$#]@#{_]][_{@]{*))$({%}_![@$]
 import collections
 
 if __name__ == "__main__":
+    # might make more sense to use ordered dict
     cnt = collections.Counter()
 
     for char in string:
